@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d07c80bd-e786-426e-8943-a56340fdde46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/10 网上下载股票并绘制图像.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/20 三维折线图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/21 三维散点图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/22 3维柱状图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/9 csv文件读取转换为图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/example.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/testg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/18 折线子图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/19  折线子图2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/testg.py" beforeDir="false" afterPath="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/testg.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,12 +20,15 @@
     <SUITE FILE_PATH="coverage/DataVision$6_.coverage" NAME="6 没标线的叠加图 Coverage Results" MODIFIED="1559552367654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
     <SUITE FILE_PATH="coverage/DataVision$5_.coverage" NAME="5 散点图 Coverage Results" MODIFIED="1559552322070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
     <SUITE FILE_PATH="coverage/DataVision$9.coverage" NAME="9 Coverage Results" MODIFIED="1559616192671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
+    <SUITE FILE_PATH="coverage/DataVision$19__2.coverage" NAME="19  折线子图2 Coverage Results" MODIFIED="1559641811246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
     <SUITE FILE_PATH="coverage/DataVision$22_3.coverage" NAME="22 3维柱状图 Coverage Results" MODIFIED="1559621402060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
-    <SUITE FILE_PATH="coverage/DataVision$testg.coverage" NAME="testg Coverage Results" MODIFIED="1559619466776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
+    <SUITE FILE_PATH="coverage/DataVision$testg.coverage" NAME="testg Coverage Results" MODIFIED="1559640870081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
+    <SUITE FILE_PATH="coverage/DataVision$19_.coverage" NAME="19 折线子图 Coverage Results" MODIFIED="1559641466330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
     <SUITE FILE_PATH="coverage/DataVision$21_.coverage" NAME="21 三维散点图 Coverage Results" MODIFIED="1559620644024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
     <SUITE FILE_PATH="coverage/DataVision$3_.coverage" NAME="3 柱状图 Coverage Results" MODIFIED="1559550665353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
     <SUITE FILE_PATH="coverage/DataVision$4_.coverage" NAME="4 直方图 Coverage Results" MODIFIED="1559551120620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
     <SUITE FILE_PATH="coverage/DataVision$10_.coverage" NAME="10 网上下载股票并绘制图像 Coverage Results" MODIFIED="1559617022375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
+    <SUITE FILE_PATH="coverage/DataVision$18_.coverage" NAME="18 折线子图 Coverage Results" MODIFIED="1559641518405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
     <SUITE FILE_PATH="coverage/DataVision$1_.coverage" NAME="1 折线图 Coverage Results" MODIFIED="1559550257697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
     <SUITE FILE_PATH="coverage/DataVision$9_csv.coverage" NAME="9 csv文件读取转换为图 Coverage Results" MODIFIED="1559616259161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
     <SUITE FILE_PATH="coverage/DataVision$.coverage" NAME="折线图 Coverage Results" MODIFIED="1559550212626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
@@ -52,12 +49,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="71">
-                <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+              <first_editor relative-caret-position="233">
+                <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
               </first_editor>
               <second_editor />
             </state>
@@ -65,13 +62,56 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/21 三维散点图.py">
+        <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/18 折线子图.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="17" />
+            <state relative-caret-position="300">
+              <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
               <folding>
-                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/19  折线子图2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/20.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/19.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/10 网上下载股票并绘制图像.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/testg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -89,23 +129,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/23.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/20 三维折线图.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-              <folding>
-                <element signature="e#510#541#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/23.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
@@ -113,15 +136,6 @@
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://E:/Anaconda/Lib/site-packages/matplotlib/figure.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-401">
-              <caret line="1157" column="8" selection-start-line="1157" selection-start-column="8" selection-end-line="1157" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -154,13 +168,15 @@
         <option value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/9.py" />
         <option value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/9 csv文件读取转换为图.py" />
         <option value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/10 网上下载股票并绘制图像.py" />
-        <option value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/testg.py" />
         <option value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/23.py" />
         <option value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/20 三维折线图.py" />
         <option value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/21 三维散点图.py" />
         <option value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/笔记.md" />
         <option value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/22 3维柱状图.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/testg.py" />
+        <option value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/19 折线子图.py" />
+        <option value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/19  折线子图2.py" />
       </list>
     </option>
   </component>
@@ -217,8 +233,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.22 3维柱状图">
-    <configuration name="20 三维折线图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.19  折线子图2">
+    <configuration name="18 折线子图" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataVision" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,7 +247,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/20 三维折线图.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/18 折线子图.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +256,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="21 三维散点图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="19  折线子图2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataVision" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,7 +269,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/21 三维散点图.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/19  折线子图2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="19 折线子图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataVision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\仓库\DataVision\kesci\1 matplotlib 的数据可视化\18 折线子图.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,28 +314,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/22 3维柱状图.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="23" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DataVision" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -352,11 +368,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.22 3维柱状图" />
-        <item itemvalue="Python.21 三维散点图" />
-        <item itemvalue="Python.20 三维折线图" />
-        <item itemvalue="Python.23" />
+        <item itemvalue="Python.19  折线子图2" />
+        <item itemvalue="Python.18 折线子图" />
+        <item itemvalue="Python.19 折线子图" />
         <item itemvalue="Python.testg" />
+        <item itemvalue="Python.22 3维柱状图" />
       </list>
     </recent_temporary>
   </component>
@@ -371,23 +387,23 @@
       <option name="presentableId" value="Default" />
       <updated>1559550062436</updated>
       <workItem from="1559550063620" duration="3476000" />
-      <workItem from="1559615409192" duration="5099000" />
+      <workItem from="1559615409192" duration="8163000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8575000" />
+    <option name="totallyTimeSpent" value="11639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18412527" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17764579" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35542858" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35885715" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -401,7 +417,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.3763499" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.32397407" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
@@ -542,26 +558,6 @@
     <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/10.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/10 网上下载股票并绘制图像.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/testg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/Anaconda/Lib/site-packages/matplotlib/figure.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-401">
@@ -622,13 +618,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/testg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/19.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/10 网上下载股票并绘制图像.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="71">
-            <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <first_editor relative-caret-position="233">
+            <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/20.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/18 折线子图.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kesci/1 matplotlib 的数据可视化/19  折线子图2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
