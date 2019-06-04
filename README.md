@@ -8,7 +8,7 @@
 #### matplotlib的数据可视化
 
 | 图片1 | 图片2 | 图片3 |
-| --------   | -----:  | :----:  |
+| --------   | --------   | --------   |
 | <img src='kesci/1 matplotlib 的数据可视化/1.png'>     | <img src='kesci/1 matplotlib 的数据可视化/2.png'> |  <img src='kesci/1 matplotlib 的数据可视化/3.png'>    |
 | <img src='kesci/1 matplotlib 的数据可视化/4.png'>     | <img src='kesci/1 matplotlib 的数据可视化/5.png'> |  <img src='kesci/1 matplotlib 的数据可视化/6.png'>    |
 | <img src='kesci/1 matplotlib 的数据可视化/7.png'>     | <img src='kesci/1 matplotlib 的数据可视化/8.png'> |  <img src='kesci/1 matplotlib 的数据可视化/9.png'>    |
